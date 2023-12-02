@@ -1,0 +1,11 @@
+-- Albums:
+--   - album name
+--   - artist
+--   - release_date
+--   - genre
+
+-- Songs:
+--   - track_number
+--   - song name
+--   - rating
+--   - runtime
